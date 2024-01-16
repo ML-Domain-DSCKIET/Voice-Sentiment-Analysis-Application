@@ -41,9 +41,9 @@ pip install streamlit
 
 ## Contributors
 
-* [ Kushagra Srivastava ](@kushagrathisside)
-* [ Manas Rai ](@manasrai1406)
-* [ Mohit Kumar Singh ](@metechmohit)
+* [ Kushagra Srivastava ](https://github.com/kushagrathisside)
+* [ Manas Rai ](https://github.com/manasrai1406)
+* [ Mohit Kumar Singh ](https://github.com/metechmohit)
 
 
 
